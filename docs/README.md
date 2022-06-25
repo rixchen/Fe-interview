@@ -1,7 +1,7 @@
 ---
 home: true
 
-heroText: Hello 标题
+heroText:   标题
 tagline: Hero 副标题
 actionText: 快速上手 →
 actionLink: /zh/guide/
